@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(9, 9, 60);
+}
+
+img{
+    width:200px;
+    height: 200px;
+}
+
+.card{
+    margin-bottom:50px;
+    margin-top:50px;
+}
